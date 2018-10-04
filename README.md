@@ -18,5 +18,5 @@ The contained files were written for Python3 and to be run on a Windows machine.
 2. The Assignment3_Port_Scanner_Flags.py file is a GUI capable of sending ICMP requests to a range of hosts.  
 
         To send a ICMP request, enter the range of hosts in the top box (i.e., 192.168.207.41-192.168.207.42),
-        leave the second box blank, and click the "ICMP" radio button to receive a popup box containing the ping request results 
-        (informs the user that the host is either open/closed).
+        leave the second box blank, and click the "ICMP" radio button to receive a popup box containing the 
+        ping request results (informs the user that the host is either open/closed).
